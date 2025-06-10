@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**XLSD61/XLSD61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎮 Dorukhan | Game Developer from Istanbul, Turkey
 
-Here are some ideas to get you started:
+🚀 Passionate about turning ideas into interactive experiences.  
+📍 Based in Istanbul | Working worldwide
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Tech Stack**  
+`C#` • `.NET` • `Unity` • `Firebase` • `Python` • `Android` • `iOS` • `JSON`
+
+![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)
+
+---
+
+📊 **GitHub Stats**  
+![Dorukhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+🧠 "Code is my tool, imagination is my engine."  
