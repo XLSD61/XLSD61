@@ -17,8 +17,8 @@
 ---
 
 📊 **GitHub Stats**  
-![Dorukhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Dorukhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=XLSD61&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XLSD61&layout=compact&theme=tokyonight)
 
 ---
 
