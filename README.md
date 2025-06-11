@@ -16,10 +16,10 @@
 
 ---
 
-📊 **GitHub Stats**  
-![Dorukhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=XLSD61&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XLSD61&layout=compact&theme=tokyonight)
 
 ---
+
+![snake gif](https://github.com/XLSD61/XLSD61/blob/output/github-contribution-grid-snake.gif)
 
 🧠 "Code is my tool, imagination is my engine."  
